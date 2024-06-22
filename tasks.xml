@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tasks>
+	<task>
+		<name>Usisavanje</name>
+		<duration>10</duration>
+		<durationType>min</durationType>
+		<difficulty>Medium</difficulty>
+	</task>
+	<task>
+		<name>Pranje sudja</name>
+		<duration>15</duration>
+		<durationType>min</durationType>
+		<difficulty>Easy</difficulty>
+	</task>
+	<task>
+		<name>Pranje veša</name>
+		<duration>30</duration>
+		<durationType>min</durationType>
+		<difficulty>Hard</difficulty>
+	</task>
+	<task><name>Pisanje zadace</name><duration>60</duration><difficulty>Hard</difficulty></task><task><name>Marinov sex</name><duration>1</duration><difficulty>Doesn t exist</difficulty></task></tasks>
